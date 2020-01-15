@@ -1,0 +1,9 @@
+version: "1"
+rules:                      # Array of rules
+  - base: dev
+    upstream: watchdogpolska/small_eod     # Required. Can be a branch in the same forked repo.
+    assignees:              # Optional
+      - bukowa
+    reviewers:              # Optional
+      - bukowa
+label: ":arrow_heading_down: pull"  # Optional
