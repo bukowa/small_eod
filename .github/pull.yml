@@ -6,4 +6,10 @@ rules:                      # Array of rules
       - bukowa
     reviewers:              # Optional
       - bukowa
+  - base: master
+    upstream: watchdogpolska/master     # Required. Can be a branch in the same forked repo.
+    assignees:              # Optional
+      - bukowa
+    reviewers:              # Optional
+      - bukowa
 label: ":arrow_heading_down: pull"  # Optional
