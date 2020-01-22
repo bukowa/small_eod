@@ -62,3 +62,5 @@ services:
 volumes:
   static:
   media:
+
+# we can run!
