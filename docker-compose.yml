@@ -62,4 +62,4 @@ services:
 volumes:
   static:
   media:
-  test:
+
