@@ -63,6 +63,3 @@ volumes:
   static:
   media:
   test:
-
-# we cant :( mayben now?
-#??
